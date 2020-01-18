@@ -1,0 +1,18 @@
+{
+  "name": "kalendaryo",
+  "version": "0.1.0",
+  "description": "Gregorian calendar generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Nico Amarilla",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
